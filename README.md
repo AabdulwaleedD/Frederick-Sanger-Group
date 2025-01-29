@@ -4,10 +4,10 @@ Bioinformatics as a combined discipline of fields including computer science, ma
  Bioinformatics aims to identify patterns and trends within large data, development of computerized models and development of algorithm through analysation and interpretation of data.
  # About The Group
  Frederick Sanger group are 400level student from the department of human anatomy, saadu zungur university bauchi. we are committed to studying and understanding bioinformatics as a whole together with it what constitutes it, i.e the aims, key application, used of common computetical tools and techniques, and other fields in relation to it.
- # The Contributors include;
-Hassana Muhammad saleh 
-Sulaiman abarshi 
-Alhaji Hassan hashimu
-Abdulkadir ya'u
-Adamu usman mai
-Balkisu Ibrahim sanda
+ # The Contributors include:
+1. Hassana Muhammad Saleh 
+2. Sulaiman Abarshi 
+3. Alhaji Hassan Hashimu
+4. Abdulkadir Ya'u
+5. Adamu Usman Mai
+6. Balkisu Ibrahim Sanda
